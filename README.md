@@ -1,2 +1,2 @@
-# data_mining
+# data-mining
 Implementation of different Machine Learning algorithms within the subject 'Data Mining'
